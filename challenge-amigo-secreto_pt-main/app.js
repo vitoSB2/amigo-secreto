@@ -13,7 +13,6 @@ function adicionarAmigo(){
         atualizarListaDeNomes();
         limparCampo();
     }
-
 }
 
 function sortearAmigo(){
